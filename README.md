@@ -1,0 +1,2 @@
+# GestureRecognitionAccelerometer
+Continuous Gesture Recognition with Accelerometer
